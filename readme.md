@@ -10,4 +10,4 @@ Creating a new branch is quick AND simple.
 
 merge 
 
-add
+add what
